@@ -41,7 +41,7 @@
     },
     "FTEXT": {
       "description": "the footer text that will be seen in the bot message, after the final edit",
-      "required": false
+      "value": "🔊𝙼𝚃 𝚄𝚙𝚍𝚊𝚝𝚎 @Mo_Tech_YT
     },
     "START_TEXT": {
       "description": "the start text of the Telegram bot",
