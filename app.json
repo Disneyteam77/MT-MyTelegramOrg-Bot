@@ -8,9 +8,9 @@
     "scrapper",
     "3"
   ],
-  "repository": "https://github.com/SpEcHiDe/MyTelegramOrgRoBot",
-  "success_url": "https://telegram.dog/SpEcHlDe",
-  "website": "https://github.com/SpEcHiDe/MyTelegramOrgRoBot",
+  "repository": "https://github.com/MRK-YT/MT-MyTelegramOrg-Bot",
+  "success_url": "https://telegram.dog/mo_tech_yt/38",
+  "website": "https://github.com/MRK-YT/MT-MyTelegramOrg-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -21,7 +21,7 @@
     },
     "URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
-      "value": "https://example.com/"
+      "value": "https://<appname>.herokuapp.com/"
     },
     "APP_TITLE": {
       "description": "specify a custom app title",
@@ -41,7 +41,7 @@
     },
     "FTEXT": {
       "description": "the footer text that will be seen in the bot message, after the final edit",
-      "required": false
+      "value": "𝙼𝚃 𝙱𝙾𝚃 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 :- @Mo_Tech_YT"
     },
     "START_TEXT": {
       "description": "the start text of the Telegram bot",
@@ -53,7 +53,7 @@
     },
     "BEFORE_SUCC_LOGIN": {
       "description": "a temporary message that will be displayed after receiving the code, and before the validations",
-      "required": false
+      "value": "𝚆𝚊𝚒𝚝...😔"
     },
     "ERRED_PAGE": {
       "description": "a string which will **never** occur, but still exists?",
@@ -69,7 +69,7 @@
     },
     "IN_VALID_PHNO_PVDED": {
       "description": "a message that will be shown if `get_phno_imn_ges` logic, breaks",
-      "required": false
+      "value": "
     }
   },
   "formation": {
