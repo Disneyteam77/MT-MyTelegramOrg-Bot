@@ -1,5 +1,5 @@
 {
-  "name": "MyTelegramOrgRoBot",
+  "name": "MT-MyTelegramOrg-Bot",
   "description": "get your APP ID and API HASH inside Telegram",
   "keywords": [
     "Telegram",
@@ -25,27 +25,27 @@
     },
     "APP_TITLE": {
       "description": "specify a custom app title",
-      "required": false
+      "value": "https://<appname>.herokuapp.com/"
     },
     "APP_SHORT_NAME": {
       "description": "specify a custom alphamumeric shortname (5-32 characters)",
-      "required": false
+      "value": "https://<appname>.herokuapp.com/"
     },
     "APP_URL": {
       "description": "specify a custom app URL",
-      "required": false
+      "value": "https://<appname>.herokuapp.com/"
     },
     "APP_DESCRIPTION": {
       "description": "specify a custom app description",
-      "required": false
+      "value": "https://<appname>.herokuapp.com/"
     },
     "FTEXT": {
       "description": "the footer text that will be seen in the bot message, after the final edit",
-      "required": false
+      "value": "https://<appname>.herokuapp.com/"
     },
     "START_TEXT": {
       "description": "the start text of the Telegram bot",
-      "required": false
+      "value": "https://<appname>.herokuapp.com/"
     },
     "AFTER_RECVD_CODE_TEXT": {
       "description": "the message that should be displayed before receiving the code from the user",
@@ -61,15 +61,15 @@
     },
     "CANCELLED_MESG": {
       "description": "a message that should be shown on /cancel",
-      "required": false
+      "value": "https://<appname>.herokuapp.com/"
     },
     "IN_VALID_CODE_PVDED": {
       "description": "a string which will **never** occur, but still exists?",
-      "required": false
+      "value": "https://<appname>.herokuapp.com/"
     },
     "IN_VALID_PHNO_PVDED": {
       "description": "a message that will be shown if `get_phno_imn_ges` logic, breaks",
-      "required": false
+      "value": "https://<appname>.herokuapp.com/"
     }
   },
   "formation": {
