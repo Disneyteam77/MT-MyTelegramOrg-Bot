@@ -61,7 +61,7 @@
     },
     "CANCELLED_MESG": {
       "description": "a message that should be shown on /cancel",
-      "value": "https://<appname>.herokuapp.com/"
+      "required": false
     },
     "IN_VALID_CODE_PVDED": {
       "description": "a string which will **never** occur, but still exists?",
