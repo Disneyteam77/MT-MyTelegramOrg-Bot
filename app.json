@@ -25,27 +25,27 @@
     },
     "APP_TITLE": {
       "description": "specify a custom app title",
-      "value": "https://<appname>.herokuapp.com/"
+      "required": false
     },
     "APP_SHORT_NAME": {
       "description": "specify a custom alphamumeric shortname (5-32 characters)",
-      "value": "https://<appname>.herokuapp.com/"
+      "required": false
     },
     "APP_URL": {
       "description": "specify a custom app URL",
-      "value": "https://<appname>.herokuapp.com/"
+      "required": false
     },
     "APP_DESCRIPTION": {
       "description": "specify a custom app description",
-      "value": "https://<appname>.herokuapp.com/"
+      "required": false
     },
     "FTEXT": {
       "description": "the footer text that will be seen in the bot message, after the final edit",
-      "value": "https://<appname>.herokuapp.com/"
+      "required": false
     },
     "START_TEXT": {
       "description": "the start text of the Telegram bot",
-      "value": "https://<appname>.herokuapp.com/"
+      "required": false
     },
     "AFTER_RECVD_CODE_TEXT": {
       "description": "the message that should be displayed before receiving the code from the user",
@@ -53,11 +53,11 @@
     },
     "BEFORE_SUCC_LOGIN": {
       "description": "a temporary message that will be displayed after receiving the code, and before the validations",
-      "required": false
+      "value": "😔𝚆𝚊𝚒𝚝𝚒𝚗𝚐...."
     },
     "ERRED_PAGE": {
       "description": "a string which will **never** occur, but still exists?",
-      "required": false
+      "value": "🔊𝙼𝚃 𝚄𝚙𝚍𝚊𝚝𝚎 @Mo_Tech_YT"
     },
     "CANCELLED_MESG": {
       "description": "a message that should be shown on /cancel",
@@ -65,11 +65,11 @@
     },
     "IN_VALID_CODE_PVDED": {
       "description": "a string which will **never** occur, but still exists?",
-      "value": "https://<appname>.herokuapp.com/"
+      "required": false
     },
     "IN_VALID_PHNO_PVDED": {
       "description": "a message that will be shown if `get_phno_imn_ges` logic, breaks",
-      "value": "https://<appname>.herokuapp.com/"
+      "value": "𝚂𝚘𝚛𝚛𝚢 ! 𝙱𝚞𝚝 𝚃𝚑𝚎 𝙸𝚗𝚙𝚞𝚝 𝙳𝚘𝚎𝚜 𝙽𝚘𝚝 𝚂𝚎𝚎𝚖 𝚃𝚘 𝙱𝚎 𝙰 𝚅𝚊𝚕𝚒𝚍 𝙿𝚑𝚘𝚗𝚎 𝙽𝚞𝚖𝚋𝚎𝚛 𝚆𝚑𝚒𝚌𝚑 𝙸𝚜 𝚒𝚗 𝙵𝚘𝚛𝚖𝚊𝚝 (+𝟷𝟿𝟾𝟽𝟼𝟻𝟺𝟹𝟸𝟷𝟶)"
     }
   },
   "formation": {
