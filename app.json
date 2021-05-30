@@ -42,7 +42,7 @@
     },
     "FTEXT": {
       "description": "the footer text that will be seen in the bot message, after the final edit",
-      "value": "🔊𝙼𝚃 𝙱𝙾𝚃 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 :- @Mo_Tech_YT"
+      "value": "🔊𝙼𝚃 𝙱𝙾𝚃 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 :- @Mo_Tech_YT",
       "required": false
     },
     "START_TEXT": {
