@@ -71,7 +71,6 @@
     },
     "IN_VALID_PHNO_PVDED": {
       "description": "a message that will be shown if `get_phno_imn_ges` logic, breaks",
-      "value": ""
       "required": false
     }
   },
