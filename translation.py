@@ -8,7 +8,7 @@ class Translation(object):
 now please send the Telegram code that you received from Telegram!
 this code is only used for the purpose of getting the APP ID from my.telegram.org
 \nif you do not trust this bot dev, please host this bot yourself
-by opening https://github.com/MRK-Y/MT-MyTelegramOrg-Bot and clicking on the Pink Button</b
+by opening https://github.com/MRK-Y/MT-MyTelegramOrg-Bot and clicking on the Pink Button</b>
 \n<b>/start at any stage to re-enter your details</b>"""
     BEFORE_SUCC_LOGIN = "😔Wait....!Plz😁"
     ERRED_PAGE = "<b>something wrongings. failed to get app id. \n\nSupport Group @Mo_Tech_YT</b>"
