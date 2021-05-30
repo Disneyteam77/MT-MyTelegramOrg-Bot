@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """Hi!
-🖥️How To Use This Bot🖥️ https://youtu.be/uAHl5jvnrhk \n\nplease read the TnC before proceeding: https://t.me/SpEcHlDe/889
+🖥️How To Use This Bot🖥️ https://youtu.be/5eEsvLAKVc0 \n\nplease read the TnC before proceeding: https://t.me/SpEcHlDe/889
 \n👤Any Doubt @Mo_Tech_Group\n🤖Bot Update @Mo_Tech_YT\n
 Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org
 
