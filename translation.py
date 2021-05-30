@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """
+    START_TEXT = """<b>Hi!</b>
 <b>Enter your Telegram Phone Number, to get the APP ID & API HASH from My.Telegram.Org
 Thank you for using me 😬number
 
@@ -23,4 +23,4 @@ by opening https://github.com/MRK-YT/MT-MyTelegramOrg-Bot and clicking on the Pi
     ERRED_PAGE = "<b>something wrongings. failed to get app id. \n\nSupport Group @Mo_Tech_YT</b>"
     CANCELLED_MESG = "<b>😴Bye! Please re /start the bot conversation</b>"
     IN_VALID_CODE_PVDED = "<b>😔sorry, but the input does not seem to be a valid Telegram Web-Login code</b>"
-    IN_VALID_PHNO_PVDED = "<b>😔sorry, but the input does not seem to be a valid phone number (With Country Code)</b>"
+    IN_VALID_PHNO_PVDED = "<b>😔sorry, but the input does not seem to be a valid phone number [With Country Code]</b>"
