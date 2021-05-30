@@ -1,7 +1,8 @@
 class Translation(object):
     START_TEXT = """
 <b>Enter your Telegram Phone Number, to get the APP ID & API HASH from My.Telegram.Org
-Thank you for using me 😬numbe r
+Thank you for using me 😬number
+
 <b><a href='https://youtu.be/5eEsvLAKVc0'>🖥️How To Use This Bot🖥️</a>  👈 Use Full Video</b>
 
 <b>By Proceeding you agreed to <a href='https://t.me/Mo_Tech_YT/38'>T&C</a></b>
