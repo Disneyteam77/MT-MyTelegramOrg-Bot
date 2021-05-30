@@ -7,6 +7,9 @@ Thank you for using me 😬</b>
 
 <b>By Proceeding you agreed to [T&C](https://t.me/Mo_Tech_YT/38)</b>
 
+👤**Any Doubt** **Mo_Tech_Group**
+🔊**Bot Updates** **Mo_Tech_YT**
+
 <b>/start at any stage to re-enter your details</b>"""
     AFTER_RECVD_CODE_TEXT = """<b>👀I see!
 now please send the Telegram code that you received from Telegram!</b>
