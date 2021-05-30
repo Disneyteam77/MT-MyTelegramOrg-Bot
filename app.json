@@ -43,6 +43,7 @@
     "FTEXT": {
       "description": "the footer text that will be seen in the bot message, after the final edit",
       "value": "🔊𝙼𝚃 𝙱𝙾𝚃 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 :- @Mo_Tech_YT"
+      "required": false
     },
     "START_TEXT": {
       "description": "the start text of the Telegram bot",
@@ -70,7 +71,8 @@
     },
     "IN_VALID_PHNO_PVDED": {
       "description": "a message that will be shown if `get_phno_imn_ges` logic, breaks",
-      "value": "𝚂𝚘𝚛𝚛𝚢 ! 𝙱𝚞𝚝 𝚃𝚑𝚎 𝙸𝚗𝚙𝚞𝚝 𝙳𝚘𝚎𝚜 𝙽𝚘𝚝 𝚂𝚎𝚎𝚖 𝚃𝚘 𝙱𝚎 𝙰 𝚅𝚊𝚕𝚒𝚍 𝙿𝚑𝚘𝚗𝚎 𝙽𝚞𝚖𝚋𝚎𝚛 𝚆𝚑𝚒𝚌𝚑 𝙸𝚜 𝚒𝚗 𝙵𝚘𝚛𝚖𝚊𝚝 (+𝟷𝟿𝟾𝟽𝟼𝟻𝟺𝟹𝟸𝟷𝟶)"
+      "value": ""
+      "required": false
     }
   },
   "formation": {
