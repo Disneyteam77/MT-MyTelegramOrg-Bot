@@ -3,6 +3,8 @@ class Translation(object):
 <b>Enter your Telegram Phone Number, to get the APP ID & API HASH from My.Telegram.Org
 Thank you for using me 😬</b>
 
+<b>[🖥️How To Use This Bot🖥️](https://youtu.be/5eEsvLAKVc0) 👈 Use Full Video</b>
+
 <b>By Proceeding you agreed to [T&C](https://t.me/Mo_Tech_YT/38)</b>
 
 <b>/start at any stage to re-enter your details</b>"""
