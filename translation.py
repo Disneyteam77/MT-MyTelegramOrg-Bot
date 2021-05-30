@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """Hi!
 <b>Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org</b>
-\n<b>🖥️How To Use This Bot🖥️\nhttps://youtu.be/5eEsvLAKVc0</b>\n\n👤Any Doubt @Mo_Tech_Group\n🤖Bot Update @Mo_Tech_YT</b>
+\n<b>🖥️How To Use This Bot🖥️\nhttps://youtu.be/5eEsvLAKVc0\n\n👤Any Doubt @Mo_Tech_Group\n🤖Bot Update @Mo_Tech_YT</b>
 \n<b>please read the TnC before proceeding: https://t.me/Mo_Tech_YT/38</b>
 \n<b>/start at any stage to re-enter your details<b>"""
     AFTER_RECVD_CODE_TEXT = """I see!
