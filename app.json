@@ -55,7 +55,7 @@
     },
     "BEFORE_SUCC_LOGIN": {
       "description": "a temporary message that will be displayed after receiving the code, and before the validations",
-      "value": "𝚆𝚊𝚒𝚝...😔"
+      "required": false
     },
     "ERRED_PAGE": {
       "description": "a string which will **never** occur, but still exists?",
